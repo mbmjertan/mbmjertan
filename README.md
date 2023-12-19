@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I'm currently studying mathematics at the Faculty of Science, University of Zagreb.
-- 👨🏻‍💻 Recently worked as a web engineer at [@infinum](https://github.com/infinum)
+- 🎓 Bachelor's in Mathematics; currently pursuing a Masters in Mathematics and Computer Science at the Faculty of Science, University of Zagreb
+- 👨🏻‍💻 Senior Web Developer at [@infobip](https://github.com/infobip)
+- 🕖 Previously: Web Engineer at [@infinum](https://github.com/infinum)
 - 📬 See [mbmjertan.xyz](https://mbmjertan.xyz) for info on how to reach me
